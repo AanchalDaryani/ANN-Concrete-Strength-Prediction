@@ -1,4 +1,4 @@
-# Concrete Strength Prediction
+# ANN-Concrete-Strength-Prediction
 
 ## Project Overview
 This project aims to predict the compressive strength of concrete based on its composition and age using Artificial Neural Networks (ANN). The dataset, provided by a cement and concrete research company, contains information on various concrete mixtures and their corresponding compressive strengths.
